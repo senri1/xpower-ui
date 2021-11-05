@@ -39,6 +39,7 @@ npm test
 ## Server
 
 ### Start local server with
+Note : For Windows open /package.json and on line 60 change "eslint '**/*.ts'" to "eslint **/*.ts"
 
 ```shell
 npm start
